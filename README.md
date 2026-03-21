@@ -11,6 +11,5 @@
 #### Versions
 + [Prototype Files & Documentation](https://github.com/GusBallmanjr/Creep-Keepers---Beetleweight-Undercutter-Battlebot/tree/main/Prototype)
 + [Iteration 1 Files & Documentation](https://github.com/GusBallmanjr/Creep-Keepers---Beetleweight-Undercutter-Battlebot/tree/main/Iteration%201)
-+ [Iteration 2 Files & Documentation]()
 
 ---

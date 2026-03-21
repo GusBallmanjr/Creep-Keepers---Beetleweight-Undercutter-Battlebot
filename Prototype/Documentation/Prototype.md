@@ -70,9 +70,6 @@ The internal layout prioritizes:
 
 The TPU armor provides flexible impact absorption and reduces the likelihood of brittle failure during weapon‑to‑weapon engagements.
 
-> From the document: “Printed as one piece”  
-> “Material: TPU”
-
 ---
 
 ## Project Timeline

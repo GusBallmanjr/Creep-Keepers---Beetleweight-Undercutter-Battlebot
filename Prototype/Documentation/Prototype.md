@@ -15,7 +15,7 @@ This prototype focused on a lightweight but rigid aluminum chassis, a TPU‑buff
 | **Chassis** | 6061 Aluminum | 1.25 lb |
 | **Side & Internal Walls** | PLA | ~0.18 lb |
 | **Weapon Stack** | Alloy Steel blade & bearing, TPU spacers, TPU/PLA O‑ring holder | ~0.39 lb (0.37 lb blade) |
-| **Top & Back Armor** | TPU (single printed piece) | — |
+| **Top & Back Armor** | TPU (single printed piece) | .17 lb |
 
 ---
 
@@ -81,4 +81,18 @@ The TPU armor provides flexible impact absorption and reduces the likelihood of 
 
 ## Media & CAD
 
+---
+
+## File Structure
+
+/ Prototype
+|
+| --> CAD
+|      | --> [Assemblies](https://github.com/GusBallmanjr/Creep-Keepers---Beetleweight-Undercutter-Battlebot/tree/main/Prototype/CAD/Assemblies)
+|      |
+|      | --> [Parts](https://github.com/GusBallmanjr/Creep-Keepers---Beetleweight-Undercutter-Battlebot/tree/main/Prototype/CAD/Parts)
+| 
+| --> Documentation
+       |
+       | --> Prototype.md
 

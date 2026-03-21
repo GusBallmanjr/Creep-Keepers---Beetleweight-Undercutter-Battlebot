@@ -2,7 +2,7 @@ ISO-10303-21;
 HEADER;
 FILE_DESCRIPTION (( 'STEP AP203' ),
     '1' );
-FILE_NAME ('Tattu 4S Battery (1).STEP',
+FILE_NAME ('Tattu 4S Battery.STEP',
     '2026-03-20T23:23:29',
     ( '' ),
     ( '' ),

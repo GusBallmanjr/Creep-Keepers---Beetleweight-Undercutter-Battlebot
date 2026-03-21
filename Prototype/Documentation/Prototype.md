@@ -85,13 +85,13 @@ The TPU armor provides flexible impact absorption and reduces the likelihood of 
 
 ## File Structure
 
+```text
 / Prototype
 |
 | --> CAD
-|     | --> [Assemblies](https://github.com/GusBallmanjr/Creep-Keepers---Beetleweight-Undercutter-Battlebot/tree/main/Prototype/CAD/Assemblies)
-|     |
-|     | --> [Parts](https://github.com/GusBallmanjr/Creep-Keepers---Beetleweight-Undercutter-Battlebot/tree/main/Prototype/CAD/Parts)
+|     | --> Assemblies
+|     | --> Parts
 |
 | --> Documentation
-|     |
 |     | --> Prototype.md
+```

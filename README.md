@@ -1,4 +1,4 @@
-# 3 lb Undercutter BattleBot
+# 3 lb Undercutter BattleBot  -> _Iteration 2 expected April 2026_
 ## Crimson Robotics (Washington State University)
 
 **Creep Keepers** - Gus Ballman, Carson Roskelley, Jayden Claytor, Natalie Massarenti

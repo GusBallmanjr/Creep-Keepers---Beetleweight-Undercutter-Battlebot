@@ -14,3 +14,37 @@
 + [Iteration 2 Files & Documentation](https://github.com/GusBallmanjr/Creep-Keepers---Beetleweight-Undercutter-Battlebot/blob/Iteration-2/Iteration%202/Documentation/i2.md)
 
 ---
+
+#### File Structure
+```text
+Creep Keepers Beetleweight Undercutter Battlebot
+|
+| --> / Prototype
+|         | --> CAD
+|         |      | --> Assemblies
+|         |      | --> Parts
+|         |
+|         | --> Documentation
+|         |      | --> prototype.md
+|
+| --> / Iteration 1
+|         | --> CAD
+|         |      | --> Assemblies
+|         |      | --> Parts
+|         |
+|         | --> Documentation
+|         |      | --> i1.md
+|
+| --> / Iteration 2
+|         | --> CAD
+|         |      | --> Assemblies
+|         |      | --> Parts
+|         |
+|         | --> Documentation
+|         |      | --> i2.md
+|         |
+|         |--> Manufacturing
+|         |      | --> Gcode (3D Printing)
+|         |      | --> CAM  (Milling)
+|
+```

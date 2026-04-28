@@ -39,12 +39,15 @@ Creep Keepers Beetleweight Undercutter Battlebot
 |         | --> CAD
 |         |      | --> Assemblies
 |         |      | --> Parts
+|         |              | --> Armor
+|         |              | --> Spinner Assembly
+|         |              | --> Chassis
 |         |
 |         | --> Documentation
 |         |      | --> i2.md
 |         |
-|         |--> Manufacturing
-|         |      | --> Gcode (3D Printing)
-|         |      | --> CAM  (Milling)
+|         |--> Machining
+|         |      | --> Gcode (Drilling)
+|         |      | --> CNC Setup Sheets
 |
 ```

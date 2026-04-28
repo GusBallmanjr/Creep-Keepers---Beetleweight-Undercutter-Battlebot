@@ -11,7 +11,7 @@
 #### Iterations
 + [Prototype Files & Documentation](https://github.com/GusBallmanjr/Creep-Keepers---Beetleweight-Undercutter-Battlebot/blob/main/Prototype/Documentation/Prototype.md)
 + [Iteration 1 Files & Documentation](https://github.com/GusBallmanjr/Creep-Keepers---Beetleweight-Undercutter-Battlebot/blob/main/Iteration%201/Documentation/i1.md)
-+ [Iteration 2 Files & Documentation](https://github.com/GusBallmanjr/Creep-Keepers---Beetleweight-Undercutter-Battlebot/blob/Iteration-2/Iteration%202/Documentation/i2.md)
++ [Iteration 2 Files & Documentation](https://github.com/GusBallmanjr/Creep-Keepers---Beetleweight-Undercutter-Battlebot/blob/main/Iteration%202/Documentation/i2.md)
 
 ---
 

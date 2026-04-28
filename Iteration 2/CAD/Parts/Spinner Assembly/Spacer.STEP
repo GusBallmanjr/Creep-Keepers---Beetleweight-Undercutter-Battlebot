@@ -2,7 +2,7 @@ ISO-10303-21;
 HEADER;
 FILE_DESCRIPTION (( 'STEP AP203' ),
     '1' );
-FILE_NAME ('Spacer (Weapon Stack).STEP',
+FILE_NAME ('Spacer.STEP',
     '2026-04-28T04:00:05',
     ( '' ),
     ( '' ),

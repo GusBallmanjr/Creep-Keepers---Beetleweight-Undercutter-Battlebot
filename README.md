@@ -36,6 +36,8 @@ Creep Keepers Beetleweight Undercutter Battlebot
 |         |
 |         | --> Documentation
 |         |      | --> i1.md
+|         |
+|         | --> Images
 |
 | --> / Iteration 2
 |         | --> CAD
@@ -47,6 +49,8 @@ Creep Keepers Beetleweight Undercutter Battlebot
 |         |
 |         | --> Documentation
 |         |      | --> i2.md
+|         |
+|         | --> Images
 |         |
 |         |--> Machining
 |         |      | --> Gcode (Drilling)

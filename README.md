@@ -1,7 +1,7 @@
 # 3 lb Undercutter BattleBot
 ## Crimson Robotics (Washington State University)
 
-**Creep Keepers** - Gus Ballman (Iteration 1, 2), Carson Roskelley (Iteration 1, 2), Jayden Claytor (Iteration 1), Natalie Massarenti (Iteration 1)
+**Creep Keepers** - Gus Ballman[^1], Carson Roskelley[^2], Jayden Claytor[^3], Natalie Massarenti[^3]
 
 ---
 
@@ -57,3 +57,7 @@ Creep Keepers Beetleweight Undercutter Battlebot
 |         |      | --> CNC Setup Sheets
 |
 ```
+[^1]: Worked on all iterations.
+[^2]: Worked on all iterations.
+[^3]: Worked on iteration 1.
+[^4]: Worked on iteration 1.

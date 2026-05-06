@@ -5,7 +5,7 @@
 
 ---
 
-<img src="Iteration 1/Images/Creep Keepers Iteration 1 Assembly.png" width="40%" /> <img src="Iteration 2/Images/Creep Keepers Iteration 2 Assembly.png" width="40%" />
+<img src="Iteration 1/Images/Creep Keepers Iteration 1 Assembly.png" width="40%" /> <img src="Iteration 2/Images/Creep Keepers Iteration 2 Assembly.png" width="30%" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Iteration 1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Iteration 2&nbsp;&nbsp;&nbsp;&nbsp;
 
 ---
